@@ -1,0 +1,2 @@
+# Transformer-Augmented-Dual-Decoder-Framework-for-Brain-Lesion-Image-Segmentation
+A deep learning framework for ischemic stroke lesion segmentation from diffusion-weighted MRI (DWI-MRI) images using a Transformer-enhanced dual-decoder U-Net architecture. The proposed model combines CNN-based local feature extraction with Transformer-based global contextual learning for accurate lesion and boundary prediction.
