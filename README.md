@@ -163,5 +163,6 @@ The proposed framework demonstrates effective lesion segmentation and improved b
 ## Author
 
 Ashish Das
--Department of Computer Science and Engineering
--National Institute of Technology Rourkela
+
+- Department of Computer Science and Engineering
+- National Institute of Technology Rourkela
