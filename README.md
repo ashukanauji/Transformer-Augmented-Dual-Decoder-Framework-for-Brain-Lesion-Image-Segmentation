@@ -107,10 +107,7 @@ Dynamic weighted combination of segmentation and boundary losses.
 The model is evaluated using:
 
 - Dice Coefficient
-- Intersection over Union (IoU)
 - Hausdorff Distance
-- Precision
-- Recall
 
 ---
 
@@ -125,50 +122,6 @@ The model is evaluated using:
 - Matplotlib
 
 ---
-
-## Project Structure
-
-├── dataset/
-├── models/
-├── preprocessing/
-├── training/
-├── evaluation/
-├── visualization/
-├── notebooks/
-├── results/
-├── README.md
-└── requirements.txt
-
----
-
-## Installation
-
-git clone https://github.com/your-username/Transformer-DualDecoder-BrainLesionSegmentation.git
-
-cd Transformer-DualDecoder-BrainLesionSegmentation
-
-Install dependencies:
-
-pip install -r requirements.txt
-
----
-
-## Training
-
-Run the training script:
-
-python train.py
-
----
-
-## Testing
-
-Run inference and evaluation:
-
-python test.py
-
----
-
 ## Results
 
 The proposed framework demonstrates effective lesion segmentation and improved boundary localization through:
@@ -210,5 +163,5 @@ The proposed framework demonstrates effective lesion segmentation and improved b
 ## Author
 
 Ashish Das
-Department of Computer Science and Engineering
-National Institute of Technology Rourkela
+-Department of Computer Science and Engineering
+-National Institute of Technology Rourkela
